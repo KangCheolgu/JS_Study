@@ -1,0 +1,4 @@
+console.log('비쥬얼 스튜디오 코드로 코드 실행해보기 1');
+var a = 5;
+var b = 3;
+console.log(a+b);
